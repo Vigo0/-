@@ -1,14 +1,5 @@
-def ab(a):
-    if a<0:
-        return-a
-    else:
-        return a
 
-
-    
 def gcd (a,b):
-    a = ab(a)
-    b = ab(b)
     if a*b ==0:
         return a+b
     else:
