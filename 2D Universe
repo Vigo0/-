@@ -4,7 +4,7 @@ from numpy import array as vec
 import numpy.linalg
 import matplotlib.pyplot as plt
 import itertools
-
+#qwerty
 MODEL_G = 0.001
 COLLISION_DISTANCE = 5.0
 COLLISION_COEFFICIENT = 50.0
